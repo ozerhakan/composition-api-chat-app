@@ -1,4 +1,6 @@
-# composition-api-chat-app
+# Vue3 Composition Api Chat App
+- Authentication using Google
+- Real time data using Firebase
 
 ## Project setup
 ```
@@ -13,11 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
